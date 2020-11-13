@@ -1,0 +1,14 @@
+// Import your components CSS files here.
+@import "alert";
+@import "navbar";
+@import "banner";
+@import "card";
+body {
+  background-color: #0E0E0E;
+}
+th {
+  color: rgb(230, 252, 212);
+}
+td {
+  color: rgb(230, 252, 212);
+}
